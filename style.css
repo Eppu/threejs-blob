@@ -1,0 +1,8 @@
+body {
+    background-color: #d11713;
+}
+.scene {
+	position: absolute;
+  width: 100%;
+  height: 100vh;
+}
